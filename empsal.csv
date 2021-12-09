@@ -1,0 +1,30 @@
+empno,empname,dob,sex,County,expyr,salary,hra
+1,Glenn Gitamo,11/25/1987,M,Kajiado,4,62000,8000
+2,Ephy Gitz,5/13/1980,M,Nairobi,10,122131,10000
+3,Benson Gitangu,5/13/1959,M,Nairobi,5.5,80000,6600
+4,Eugene Okemwa,4/20/1995,M,Nairobi,1.3,42500,7500
+5,Faith Mugo,7/18/1974,F,Mombasa,10.2,122000,8900
+6,Edna Bibie,12/28/1985,F,Taita Taveta,5.2,75000,6500
+7,Lucy Wairimu,12/13/1990,F,Kiambu,3.5,62500,5500
+8,Duncan Makori,11/30/1985,M,Nyanza,7,92500,8500
+9,Joseph Alumasa,5/16/1986,M,Kajiado,4.1,64500,5000
+10,Atavachi Mlesu,5/19/1980,M,Nairobi,6.3,76000,6700
+11,Morris Ondiek,8/21/1983,M,Machakos,5,78000,8000
+12,Wycliffe Jean,6/28/1989,F,Nairobi,4.1,65000,8000
+13,Mavelyn Kwamboka,10/17/1980,F,Kajiado,7.9,101320,6000
+14,Paul Ombui,2/21/1991,M,Kiambu,5.5,81000,9000
+15,Denzel Curry,12/15/1988,M,Meru,3,61250,7600
+16,Fivio Peter,3/17/1979,M,Lamu,6.2,75400,5500
+17,Abi Taji,4/21/1992,M,Lamu,4.5,65000,6000
+18,Kevin Clomba,1/13/1990,M,Mombasa,2,46000,7000
+19,Panchol Madol,5/15/1996,M,Taita Taveta,1.1,39500,13500
+20,Joseph Methu,5/19/1980,M,Kajiado,7,64500,5000
+21,Christine Muthoni,8/21/1983,F,Kiambu,4.1,76000,6700
+22,Triza Mwendwa,6/28/1989,F,Meru,6.3,78000,8000
+23,Mark Muthomi,10/17/1980,M,Lamu,5,65000,8000
+24,Dutt Dikisha,2/21/1991,F,Lamu,4.1,101320,6000
+25,Happiness Kawinzi,12/15/1988,F,Mombasa,7.9,81000,9000
+26,Alisha Gomez,3/17/1979,F,Taita Taveta,5.5,61250,7600
+27,Jared Kingoina,10/17/1980,,Lamu,6.3,46000,5000
+28,Prudence Bosibori,2/21/1991,,Lamu,5,39500,6700
+29,Nelson Ondiba,12/15/1988,,Mombasa,4.1,64500,8000
